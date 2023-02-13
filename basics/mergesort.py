@@ -38,7 +38,7 @@ def merge(left, right):
     else:
         merged += right
 
-    debug_print(merger=merged)
+    debug_print(merged=merged)
 
     return merged
 
